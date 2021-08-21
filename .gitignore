@@ -1,0 +1,9 @@
+*.pyc
+*.idea
+*.DS_Store
+*.vscode
+*.pt
+*.json
+*.sqlite3
+chemprop.egg-info
+docs/build
